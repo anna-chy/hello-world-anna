@@ -1,0 +1,228 @@
+making some changes
+
+The Best Computer and IT Jobs for 2019
+Rankings Guidelines and Information Source: We based our IT jobs ranking on salary, employment growth projections, and job satisfaction. Salary statistics information has been sourced from PayScale.com, and reflects median annual salaries as of March 2018. Employment growth outlook information comes from the Bureau of Labor Statistics, for 2016–2026.
+
+20. Hardware Engineer
+Image of Computer Hardware Engineer
+
+What they do:
+Hardware engineers design computer hardware.
+
+Hardware engineers draw on computer engineering to develop hardware, either for use within an organization, or as a product to be sold commercially. Hardware engineers work in teams with other technology professionals and scientists to design, build, and troubleshoot existing computer hardware or entirely new hardware. Hardware engineers work with the goals of maximizing technological efficiency, minimizing issues and errors, and meet current technological needs.
+
+Median annual salary:
+$85,441
+
+Education Requirements:
+Individuals in this field must have a minimum of a bachelor’s degree in a relevant engineering field, such as computer engineering or electrical engineering. Some employers may require a master’s degree.
+
+Employment growth outlook:
+5.5%
+
+19. Network Administrator
+What they do:
+Network administrators oversee networks and communication systems to keep information and communications flowing smoothly.
+
+Network administrators implement and maintain network software and hardware, fix network problems, and ensure network security, availability, and performance standards. They also optimize existing systems to reduce costs and increase productivity, as well as install, optimize, and secure new systems. Network administrators typically work with a team of other IT professionals with unique specializations.
+
+Median annual salary:
+$57,142
+
+Education Requirements:
+Network administrators must have a bachelor’s degree in network administration, computer science, systems engineering, or a related field. Some employers require a master’s degree. Network administrators can increase their career opportunities with network certifications, such as Cisco’s CCNA, or CompTIA’s Network+.
+
+Employment growth outlook:
+6.1%
+
+18. Data Architect
+What they do:
+Data architects oversee the design and maintenance of data across a variety of information systems and databases.
+
+The main goal of data architects is to ensure that data in a system or database is accurate and readily accessible. More than just administering a system, data architects must employ knowledge and analytical skills to determine if data is being handled in the best, most efficient way possible, and what methods can be implemented to improve existing systems. Data architects work alongside other IT professionals in teams.
+
+Median annual salary:
+$112,825
+
+Education Requirements:
+Data architects must have a minimum of a bachelor’s degree in information technology, information systems, computer science, or a related field. Some positions may require a master’s degree.
+
+Employment growth outlook:
+6.5%
+
+17. Solutions Architect
+What they do:
+Solutions architects develop technological solutions for organizations.
+
+Solutions architects rely on technological knowledge and critical thinking to assess an organization’s technological needs and goals, and to develop and implement a plan toward reaching those goals. Solutions architects communicate between various departments in an organization to determine what solutions need to be in place, and how to make them happen.
+
+Median annual salary:
+$115,231
+
+Education Requirements:
+Individuals in this field should have a bachelor’s degree in computer science, information technology, information systems, or a related field. A degree in business, such as a bachelor’s in business administration, or an MBA, could also be useful.
+
+Employment growth outlook:
+6.5%
+
+16. Computer Network Architect
+What they do:
+Computer network architects design, build, and implement computer and data networks in a diverse array of settings.
+
+Computer network architects may work with local area networks, wide area networks, or intranets. Computer network architects, plan for maintenance and updates of computer networks, to ensure that networks function efficiently and remain technologically up-to-date. Individuals in this field may work for computer network service firms, or directly within a specific corporation or agency.
+
+Median annual salary:
+$116,332
+
+Education Requirements:
+Computer network architects must have a minimum of a bachelor’s degree in computer science, computer engineering, information systems, or a related field. Individuals may benefit from earning a master’s degree as well, in a technical field, or in an area of business study, such as an MBA.
+
+Employment growth outlook:
+6.5%
+
+15. Computer Technical Support Specialist
+Image of Network Administrator
+
+What they do:
+Computer technical support specialists engage in troubleshooting and problem solving, both within a corporation and for individual clients.
+
+Computer technical support specialists draw on a general knowledge of computer systems, hardware, and software, as well as knowledge of specific products, to alleviate technological issues. Some individuals in this field work for technical support service companies, while others work within corporations or agencies. Computer technical support specialists must maintain up-to-date knowledge of current technologies and technological issues.
+
+Median annual salary:
+$48,309
+
+Education Requirements:
+Computer technical support specialists should have a minimum of a bachelor’s degree in computer science, computer engineering, information systems, information technology, or a related field. A master’s degree can lead to professional advancement in some areas of employment.
+
+Employment growth outlook:
+8.3%
+
+14. Site Reliability Engineer
+What they do:
+Site reliability engineers work to ensure that an organization’s website runs smoothly and efficiently serves its intended purpose.
+
+Site reliability engineers maintain, update, and troubleshoot websites for their employer, to guarantee that the website remain functional and do not suffer from interruptions. Site reliability engineers utilize a variety of programming language, including HTML, Javascript, and CSS, as well as website management technologies. Site reliability engineers work alongside teams in their organizations to keep the website in alignment with organizational goals, and to keep it up-to-date in relation to the rest of the web.
+
+Median annual salary:
+$119,024
+
+Education Requirements:
+Site reliability engineers must have a minimum of a bachelor’s degree in computer science, programming, information technology, or a related field. Some employers may require a master’s degree.
+
+Employment growth outlook:
+8.3%
+
+13. Computer Systems Analyst
+What they do:
+Computer systems analysts draw on business and technical expertise to evaluate a company’s computer systems and procedures, with the goal of recommending strategic changes to increase productivity, lower costs, and achieve other objectives.
+
+Computer systems analysts design and program computer system updates or closely oversee the development team. Those without a programming background collaborate with the software development department to implement changes. The main objective of a computer systems analysts is maximizing the return on investment of a company’s IT budget.
+
+Median annual salary:
+$66,910
+
+Education Requirements:
+Computer systems analysts must have a minimum of a bachelor’s degree in computer systems analysis, computer information systems, computer science, business intelligence, information systems, information technology, or a similar field. Since the occupation deals with both business and IT, some computer systems analyst jobs require a Master of Business Administration (MBA), preferably with a technical focus.
+
+Employment growth outlook:
+9.1%
+
+12. Software Engineer
+What they do:
+Software engineers design, develop, test, and optimize computer programs used in areas such as operating systems, business applications, network control systems, video games, and social networks.
+
+The field encompasses a wide range of careers and professional roles. Some software engineers may work on specialized software or projects for niche companies, while others may work on software for networks and databases, for large groups or government agencies. Software engineers typically work in teams with other engineers, as well as administrators.
+
+Median annual salary:
+$81,940
+
+Education Requirements:
+Individuals in this field must have a minimum of a bachelor’s degree in computer science, computer programming, computer engineering, or a relevant field. Some employers may prefer a master’s degree.
+
+Employment growth outlook:
+11.1%
+
+11. User Interface Designer
+What they do:
+User interface designers work to ensure that software functions smoothly and logically for users and consumers.
+
+User interface designers operate within a software development team to design, create, and troubleshoot the user interface aspects of software. User interface designers rely on technical knowledge, familiarity with a variety of programming languages, critical thinking, and ingenuity to ensure that the user experience for software is not hampered by a poorly designed interface.
+
+Median annual salary:
+$63,313
+
+Education Requirements:
+User interface designers must have a minimum of a bachelor’s degree in computer science, software programming, information technology, or another relevant field. Some employers may require a master’s degree.
+
+Employment growth outlook:
+11.3%
+
+
+10. Database Administrator
+Best Online Bachelor's in Database Management Programs
+
+What they do:
+Data Administrators are responsible for organizing and managing an organization’s data, making sure that data is accurate and available and that database performance meets organizational requirements.
+
+Database administrators make sure that software and hardware is maintained, allowing for vital information to be easily stored, accessed, and utilized. Database administrators also help guarantee security of data, and work alongside teams of other IT professionals.
+
+Median annual salary:
+$71,513
+
+Education Requirements:
+Individuals in this field must hold a minimum of a bachelor’s degree in database administration, computer science, computer information systems, information technology, or a related field. Employers may prefer candidates with an MBA with a concentration in database management, computer information systems, or management information systems.
+
+Database administrators may enhance their résumé with specialized training and certifications in popular database management systems such as Microsoft SQL Server, Sybase, Oracle, MySQL, and IBM DB2.
+
+Employment growth outlook:
+11.5%
+
+9. Business Intelligence Developer
+What they do:
+Business intelligence developers oversee databases and information systems with the goal of optimizing the storage, implementation, and flow of data in corporations.
+
+Business intelligence developers must draw on a large pool of skills and knowledge to complete a variety of tasks, including coding and designing systems, troubleshooting systems, analyzing data systems, and managing teams of IT professionals. Individuals in this field combine aspects of computer and information technology fields with business administration.
+
+Median annual salary:
+$78,076
+
+Education Requirements:
+Business intelligence developers should have a minimum of a bachelor’s degree in information technology, information systems, or computer science. A degree in business, such as a bachelor’s in business administration or business intelligence, may also be useful.
+
+Employment growth outlook:
+11.5%
+
+8. Information Technology Manager
+What they do:
+Information technology managers oversee the IT needs of an organization.
+
+Information technology managers typically supervise IT service teams within corporations or agencies. They engage with solving IT problems through troubleshooting, updating and implementing technology, and assessing the technological needs of their organization. IT managers draw on knowledge from an information technology background, as well as a business management background.
+
+Median annual salary:
+$84,440
+
+Education Requirements:
+Information technology managers must have a minimum of a bachelor’s degree in an area such as information technology management, information technology, or computer science. Some employers may require a master’s degree. Business degrees with a technical focus, such as a bachelor’s in business administration with a concentration in information technology, may also be desirable.
+
+Employment growth outlook:
+11.5%
+
+7. Data Scientist
+What they do:
+Data scientists direct the gathering and application of data for a variety of organizations, including corporations and government agencies.
+
+Data scientists approach the retrieval, storage, and implementation of data and data systems from a broad view. Rather than just focusing on the architecture of database systems, their administration, or the specific methods used to store and convey data, data scientists work to develop large-scale models of how an organization relates to its data. Individuals in this field consider methods of data mining, methods of storage and conveyance, hardware and software, trends in data, and niche applications of data.
+
+Data scientists work alongside teams of other IT professionals, often taking a directorial approach.
+
+Median annual salary:
+$90,958
+
+Education Requirements:
+Individuals in this position must have a minimum of a bachelor’s degree in computer science, information systems, computer engineering, or another relevant field. A master’s degree may be preferred. Also, a degree in an areas such as business administration business analytics may be useful.
+
+Employment growth outlook:
+11.5%
+
+6. Development Operations (DevOps) Engineer
+What they do:
